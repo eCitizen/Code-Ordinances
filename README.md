@@ -1,6 +1,6 @@
 Code-Ordinances
 ===============
 
-City of Boston Code - Ordinances
+Development repository for structure and format for City of Boston ordinances.
 
-Repository for ETL and Structure/Format Development for City of Boston Ordinances.
+Looking to apply this API: http://statedecoded.github.io/documentation/api.html
