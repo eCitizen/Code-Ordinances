@@ -14,3 +14,6 @@ Authoritative Source
 
 
 Consider including links in the Open Data Socrata site to the GitHub laws (this repo) and also from the laws/ordinances TO the referenced health inspection API results...!
+
+
+YELP LIVES Health standards http://www.yelp.com/healthscores
