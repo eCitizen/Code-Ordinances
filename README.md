@@ -1,5 +1,7 @@
 Code-Ordinances
 ===============
+[NOTE: This repository was short lived and development moved on elsewhere.  Saved primarily for historical purposes.]
+
 
 # DRAFT * DRAFT * DRAFT 
 
